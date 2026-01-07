@@ -21,7 +21,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%201%20isim%20yazdırma)
+- [Click here for more details.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-/Project%201%20isim%20yazdırma)
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%202%20Saat)
+- [Click here for more details.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-s/Project%202%20Saat)
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%203%20ADC%20Değer%20Okuma)
+- [Click here for more details.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-/Project%203%20ADC%20Değer%20Okuma)
 
 ---
 
@@ -58,7 +58,7 @@ This repository contains various projects developed using the **Tiva C Series TM
   - Tiva C Series LaunchPad  
   - LM35DZ temperature sensor  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%204%20Seri%20Port%20Haberleşme)
+- [Click here for more details.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-/Project%204%20Seri%20Port%20Haberleşme)
 
 ---
 
@@ -96,7 +96,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projects/Project%201)
+   - [Detaylar için buraya tıklayın.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-/Project%201%20isim%20yazdırma)
 
 ---
 
@@ -108,7 +108,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projects/Project%202)
+   - [Detaylar için buraya tıklayın.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-s/Project%202%20Saat)
 
 ---
 
@@ -120,7 +120,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projects/Project%203)
+   - [Detaylar için buraya tıklayın.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-/Project%203%20ADC%20Değer%20Okuma)
 
 ---
 
@@ -133,7 +133,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
      - Tiva C Serisi LaunchPad
      - LM35DZ sıcaklık sensörü
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projects/Project%204)
+   - [Detaylar için buraya tıklayın.](./Tiva-TM4C123GH6PM-Mikrodenetleyici-/Project%204%20Seri%20Port%20Haberleşme)
 
 ---
 
