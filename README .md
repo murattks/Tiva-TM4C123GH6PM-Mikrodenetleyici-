@@ -21,7 +21,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%201)
+- [Click here for more details.](./Projects/Project%201%20isim%20yazdırma)
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%202)
+- [Click here for more details.](./Projects/Project%202%20Saat)
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%203)
+- [Click here for more details.](./Projects/Project%203%20ADC%20Değer%20Okuma)
 
 ---
 
@@ -58,7 +58,7 @@ This repository contains various projects developed using the **Tiva C Series TM
   - Tiva C Series LaunchPad  
   - LM35DZ temperature sensor  
   - 16x2 LCD display  
-- [Click here for more details.](./Projects/Project%204)
+- [Click here for more details.](./Projects/Project%204%20Seri%20Port%20Haberleşme)
 
 ---
 
