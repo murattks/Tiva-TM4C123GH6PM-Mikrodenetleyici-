@@ -141,7 +141,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
 2. Kodları indirmek ve çalıştırmak için:
    - Repo'yu klonlayın:
      ```bash
-     git clone https://github.com/cgrkync/Tiva-C-Serisi-TM4C123G-LaunchPad-Projeleri.git
+     git clone https://github.com/murattks/Tiva-TM4C123GH6PM-Mikrodenetleyici-.git
      ```
    - İlgili proje klasörüne gidin ve kodları inceleyin.
 3. Kodları derlemek ve Tiva C LaunchPad'e yüklemek için **Code Composer Studio** kullanın.
