@@ -66,7 +66,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 2. To download and run the code:
    - Clone the repository:
      ```bash
-     git clone https://github.com/cgrkync/Tiva-C-Serisi-TM4C123G-LaunchPad-Projeleri.git
+     git clone https://github.com/murattks/Tiva-TM4C123GH6PM-Mikrodenetleyici-.git
      ```
    - Go to the corresponding project folder and review the source code.
 3. Use **Code Composer Studio** to compile and upload the code to your Tiva C LaunchPad.
