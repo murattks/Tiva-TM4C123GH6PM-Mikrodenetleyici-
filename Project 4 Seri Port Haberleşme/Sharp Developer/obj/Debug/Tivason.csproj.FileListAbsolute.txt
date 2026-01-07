@@ -1,0 +1,7 @@
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\bin\Debug\Tivason.exe
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\bin\Debug\Tivason.pdb
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\obj\Debug\Tivason.csprojResolveAssemblyReference.cache
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\obj\Debug\Tivason.MainForm.resources
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\obj\Debug\Tivason.csproj.GenerateResource.Cache
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\obj\Debug\Tivason.exe
+C:\Users\kubil\OneDrive\Documents\SharpDevelop Projects\Tivason\Tivason\obj\Debug\Tivason.pdb
