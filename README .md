@@ -1,4 +1,6 @@
----
+Name and Surname : Muratali Kus
+Number : G210100041
+Sakarya University Electrical | Electronic Engineer 
 
 ## 🇬🇧 ENGLISH 
 
