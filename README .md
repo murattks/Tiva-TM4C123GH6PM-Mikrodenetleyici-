@@ -60,29 +60,6 @@ This repository contains various projects developed using the **Tiva C Series TM
 
 ---
 
-### 5. **Hibernate Mode Application**
-- **Description:** The microcontroller is set to low-power hibernate mode, and wake-up is performed via RTC or GPIO.
-- **Features:**
-  - GPIO states are preserved during hibernation.
-  - The system wakes up after a set time using the RTC (Real Time Clock).
-- **Hardware Used:**
-  - Tiva C Series LaunchPad  
-  - External wake-up signal (e.g., button)  
-- [Click here for more details.](./Projects/Project%205)
-
----
-
-### 6. **Floating Point Operations**
-- **Description:** Mathematical operations are performed using the Floating Point Unit (FPU), and a sine wave is calculated.
-- **Features:**
-  - Floating-point operations are accelerated using the FPU.
-  - 100 sample points are calculated for the sine wave.
-- **Hardware Used:**
-  - Tiva C Series LaunchPad  
-- [Click here for more details.](./Projects/Project%206)
-
----
-
 ## 🚀 How to Use?
 
 1. Navigate to the related folder for each project and check the **README.md** file.
@@ -93,10 +70,6 @@ This repository contains various projects developed using the **Tiva C Series TM
      ```
    - Go to the corresponding project folder and review the source code.
 3. Use **Code Composer Studio** to compile and upload the code to your Tiva C LaunchPad.
-
-
-
-
 
 
 ---
@@ -159,29 +132,6 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
      - LM35DZ sıcaklık sensörü
      - 16x2 LCD ekran
    - [Detaylar için buraya tıklayın.](./Projects/Project%204)
-
----
-
-### 5. **Hibernate Modu Uygulaması**
-   - **Açıklama:** Hibernate modu ile mikrodenetleyici düşük güç moduna geçirilmiş ve RTC veya GPIO ile uyandırma sağlanmıştır.
-   - **Özellikler:**
-     - GPIO pinlerinin durumu korunur.
-     - RTC (Real Time Clock) ile belirli bir süre sonunda sistem uyandırılır.
-   - **Kullanılan Donanım:**
-     - Tiva C Serisi LaunchPad
-     - Harici uyandırma sinyali (ör. buton)
-   - [Detaylar için buraya tıklayın.](./Projects/Project%205)
-
----
-
-### 6. **Floating Point İşlemleri**
-   - **Açıklama:** Floating Point Unit (FPU) kullanılarak matematiksel işlemler gerçekleştirilmiş ve bir sinüs dalgası hesaplanmıştır.
-   - **Özellikler:**
-     - Kayan noktalı işlemler, FPU etkinleştirilerek hızlandırılmıştır.
-     - Sinüs dalgası için 100 örnekleme noktası hesaplanmıştır.
-   - **Kullanılan Donanım:**
-     - Tiva C Serisi LaunchPad
-   - [Detaylar için buraya tıklayın.](./Projects/Project%206)
 
 ---
 
